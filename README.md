@@ -6,6 +6,7 @@ Design 1:
 ![Design](https://raw.githubusercontent.com/l-God-l/betterAssembly/master/Design%201%20(James).jpg?token=ANZDT33336TESYG2C4ONKMS6YM2SW)
 
 Top buttons:
+
 Volunteering Opportunities: Displays the opportunities that are currently available. There can also be Duke Of Edinborough info
 
     Sports: Displays information such as the tryout times, team roster, and anything else that the team captains or the coaches wish to display (epic plays etc.) and also information from Figgs about scorekeeping that we also get emails about but never look at
