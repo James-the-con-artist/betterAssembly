@@ -1,4 +1,4 @@
 # betterAssembly
 Literally better assembly
 
-[Design 1 (James).jpg]
+![Design][Design 1 (James).jpg]
