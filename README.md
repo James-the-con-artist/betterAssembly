@@ -3,7 +3,7 @@ Literally better assembly
 
 Design 1:
 
-![Design](https://raw.githubusercontent.com/l-God-l/betterAssembly/master/Design%201%20(James).jpg?token=ANZDT33336TESYG2C4ONKMS6YM2SW)
+![Design](Design 1 (James).jpg)
 
 Top buttons:
 
