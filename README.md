@@ -3,7 +3,7 @@ Literally better assembly
 
 Design 1:
 
-![Design](Design 1 (James).jpg)
+![Design](Design 1 \(James\).jpg)
 
 Top buttons:
 
