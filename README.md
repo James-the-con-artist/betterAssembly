@@ -3,7 +3,7 @@ Literally better assembly
 
 Design 1:
 
-![Design](Design 1 \(James\).jpg)
+![Design](https://github.com/l-God-l/betterAssembly/blob/master/Design%201%20(James).jpg)
 
 Top buttons:
 
