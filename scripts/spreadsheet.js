@@ -2,6 +2,7 @@ var spreadsheet = "https://docs.google.com/spreadsheets/d/1SLJXzaJfHwr0WrAu8OvtA
 
 $(document).ready(function(){
     $('#statistics').sheetrock({
-        url: spreadsheet
+        url: spreadsheet,
+        query: "select A where B='A3'"
     });
 });
